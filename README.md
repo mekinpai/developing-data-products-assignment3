@@ -8,6 +8,6 @@ The user manual for this application can be found here: https://github.com/mekin
 
 It also contains the code for generating web page prensentation created using R Markdown.
 
-The web page presentation can be found here: 
+The web page presentation can be found here: https://mekinpai.github.io/developing-data-products-assignment3/Presentation/Assignment4.html#/
 
 All of these are part of the Developing Data Products course on Coursera.org
