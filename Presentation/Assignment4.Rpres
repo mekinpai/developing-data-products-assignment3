@@ -52,5 +52,5 @@ Shiny application
 
 The Shiny application built helps solve the problem. It can be found [here](https://mekinpaii.shinyapps.io/developing-data-products-assignment3/)
 
-<iframe src="https://mekinpaii.shinyapps.io/developing-data-products-assignment3/" style="position:absolute;height:90%;width:100%"></iframe>
+<img src="Assignment4-figure/Shiny Example.png" style="position:absolute;height:90%;width:100%"></img>
 
