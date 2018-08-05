@@ -2,7 +2,7 @@
 
 This repository contains the codes used to generate a shiny application which visualizes the locations in Thailand based on user's input state and postal codes.
 
-The shiny application can be found here: https://mekinpaii.shinyapps.io/assignment4_-_developing_data_products/
+The shiny application can be found here: https://mekinpaii.shinyapps.io/developing-data-products-assignment3/
 
 The user manual for this application can be found here: https://github.com/mekinpai/developing-data-products-assignment3/blob/master/UserManual.md
 
