@@ -49,9 +49,7 @@ shinyUI(fluidPage(
                 "Cluster Points",
                 value=T
             ),
-            helpText( a("Too hard to use? Click here for User Manual", 
-                        href="https://github.com/mekinpai/developing-data-products-assignment3/blob/master/UserManual.md"
-                        , target="_blank")
+            helpText(includeMarkdown("UserManual.md")
             )
         ),
         # Show a location map based on the select input

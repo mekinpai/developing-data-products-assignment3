@@ -1,4 +1,4 @@
-# User Manual
+### User Manual
 
 Here's a simple guide on how to use this shiny application:
 
